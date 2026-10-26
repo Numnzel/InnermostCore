@@ -1,0 +1,30 @@
+INNERMOST CORE CREDITS:
+
+Main Author: Numnzel
+Contact: numnzel@protonmail.com
+GitHub: https://github.com/Numnzel/InnermostCore
+
+Below here is a credit list.
+Everything not specified here, can be considered *in practicality* to be made by me.
+Please contact me if you find any error in this list.
+
+
+*** Zscript:
+
+    General (All)
+    Author: Main Author
+
+*** Graphics:
+
+    General (All)
+    Author: Main Author
+
+*** Software used:
+    Fedora Linux OS, UZDoom, Slade, Blender
+
+*** AI usage:
+    There is no AI-made content in the project.
+    There has been some very light AI use for some puntual assistance with Zscript.
+
+*** Other:
+    Special thanks to Belsel for his assistance with Blender.

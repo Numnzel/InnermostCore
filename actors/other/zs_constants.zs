@@ -1,0 +1,2 @@
+const ENERGY_TICRATE = 1;
+const ENERGY_WAITSEC = 5;

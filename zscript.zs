@@ -1,0 +1,10 @@
+version "5.00.0"
+
+#include "actors/other/zs_constants.zs"
+#include "actors/ammo/zs_cybergauntlets_energy.zs"
+#include "actors/inventory/zs_bloodarmor.zs"
+#include "actors/inventory/zs_weaponupgrades.zs"
+#include "actors/projectiles/zs_energyball.zs"
+#include "actors/weapons/zs_upgradeableWeapon.zs"
+#include "actors/weapons/zs_ceremony_shotgun.zs"
+#include "actors/weapons/zs_cybergauntlets.zs"
