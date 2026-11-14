@@ -1,4 +1,4 @@
-class Energyball : Doomimpball {
+class EnergyBall : Doomimpball {
 
 	Actor auraGFX;
 	int rate;
@@ -8,7 +8,7 @@ class Energyball : Doomimpball {
 		Super.BeginPlay();
 
 		rate = 0;
-		auraGFX = Spawn("EnergyballAura", pos);
+		auraGFX = Spawn("EnergyBallAura", pos);
 		if (auraGFX) auraGFX.target = self;
 	}
 
@@ -52,14 +52,14 @@ class Energyball : Doomimpball {
 	}
 
 	default {
-		
+
 		speed 8;
 		radius 6;
 		height 8;
 	}
-	
+
 	states {
-	
+
 		spawn:
 			BAL1 ABABABABABABAB 4 bright;
 		death:
@@ -69,7 +69,7 @@ class Energyball : Doomimpball {
 	}
 }
 
-class EnergyballAura : Actor {
+class EnergyBallAura : Actor {
 
 	/*
 	array<Actor> victims;

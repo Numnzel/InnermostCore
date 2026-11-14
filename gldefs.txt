@@ -1,1 +1,1 @@
-#include "actors/weapons/bm_cybergauntlets.txt"
+#include "actors/weapons/CyberGauntlets.gl"
